@@ -1,0 +1,9 @@
+C:\Users\dovv\source\repos\ЛР№3_3_Долгушин\ЛР№3_3_Долгушин\bin\Debug\ЛР№3_3_Долгушин.exe.config
+C:\Users\dovv\source\repos\ЛР№3_3_Долгушин\ЛР№3_3_Долгушин\bin\Debug\ЛР№3_3_Долгушин.exe
+C:\Users\dovv\source\repos\ЛР№3_3_Долгушин\ЛР№3_3_Долгушин\bin\Debug\ЛР№3_3_Долгушин.pdb
+C:\Users\dovv\source\repos\ЛР№3_3_Долгушин\ЛР№3_3_Долгушин\obj\Debug\ЛР№3_3_Долгушин.csprojAssemblyReference.cache
+C:\Users\dovv\source\repos\ЛР№3_3_Долгушин\ЛР№3_3_Долгушин\obj\Debug\ЛР_3_3_Долгушин.Form1.resources
+C:\Users\dovv\source\repos\ЛР№3_3_Долгушин\ЛР№3_3_Долгушин\obj\Debug\ЛР_3_3_Долгушин.Properties.Resources.resources
+C:\Users\dovv\source\repos\ЛР№3_3_Долгушин\ЛР№3_3_Долгушин\obj\Debug\ЛР№3_3_Долгушин.csproj.GenerateResource.cache
+C:\Users\dovv\source\repos\ЛР№3_3_Долгушин\ЛР№3_3_Долгушин\obj\Debug\ЛР№3_3_Долгушин.exe
+C:\Users\dovv\source\repos\ЛР№3_3_Долгушин\ЛР№3_3_Долгушин\obj\Debug\ЛР№3_3_Долгушин.pdb
